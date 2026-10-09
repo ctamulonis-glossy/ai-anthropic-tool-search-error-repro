@@ -1,0 +1,11 @@
+{
+  "name": "ai-anthropic-tool-search-error-repro",
+  "private": true,
+  "type": "module",
+  "scripts": { "repro": "node repro.mjs" },
+  "dependencies": {
+    "@ai-sdk/anthropic": "4.0.78",
+    "ai": "7.0.136",
+    "zod": "4.1.12"
+  }
+}
